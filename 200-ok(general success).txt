@@ -1,0 +1,19 @@
+200-ok(general success)
+201-created(include location header)
+202-accepted (async processing started)
+204-No Content (DELETE ,silent success)
+
+CLIENT ERROR:
+400-bad request (malformed input)
+401- unauthorised
+403-forbidden
+404- not found
+
+
+409-
+
+SERVER SIDE ERROR:
+500-internal server error
+501-not implemented
+503-
+504-
