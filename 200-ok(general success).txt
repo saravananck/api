@@ -17,3 +17,4 @@ SERVER SIDE ERROR:
 501-not implemented
 503-
 504-
+5100
